@@ -1,20 +1,40 @@
 {
     "coinbase_tags" : {
+        "/terrapool.io/": {
+            "name": "Terra Pool",
+            "link": "https://terrapool.io"
+        },
+        "/Powered by Luxor/": {
+            "name": "Luxor",
+            "link": "https://mining.luxor.tech"
+        },
         "/1THash&58COIN/": {
-            "name": "1THash&58COIN",
+            "name": "1THash",
             "link": "https://www.1thash.top"
+        },
+        "/1THash/": {
+            "name": "1THash",
+            "link": "https://www.1thash.top"
+        },
+        "/BTC.COM/" : {
+            "name" : "BTC.com",
+            "link" : "https://pool.btc.com"
+        },
+        "/BTC.com/" : {
+            "name" : "BTC.com",
+            "link" : "https://pool.btc.com"
         },
         "BITFARMS": {
             "name": "Bitfarms",
-            "link": "https://www.bitarms.io/"
+            "link": "https://www.bitfarms.io/"
         },
         "/Huobi/": {
             "name": "Huobi.pool",
-            "link": "https://www.poolhb.com/"
+            "link": "https://www.hpt.com/"
         },
         "/HuoBi/": {
             "name": "Huobi.pool",
-            "link": "https://www.poolhb.com/"
+            "link": "https://www.hpt.com/"
         },
         "/E2M & BTC.TOP/": {
             "name": "WAYI.CN",
@@ -140,6 +160,10 @@
             "name" : "F2Pool",
             "link" : "https://www.f2pool.com/"
         },
+        "🐟" : {
+            "name" : "F2Pool",
+            "link" : "https://www.f2pool.com/"
+        },
         "HHTT" : {
             "name" : "HHTT",
             "link" : "http://hhtt.1209k.com/"
@@ -165,8 +189,8 @@
             "link" : "http://give-me-coins.com/"
         },
         "/slush/" : {
-           "name" : "SlushPool",
-           "link" : "https://slushpool.com/"
+           "name" : "Braiins Pool",
+           "link" : "https://braiins.com/pool"
         },
         "Mined by AntPool" : {
             "name" : "AntPool",
@@ -292,6 +316,10 @@
             "name": "HotPool",
             "link": "https://hotpool.co/"
         },
+        "/www.okex.com/" : {
+            "name": "OKExPool",
+            "link": "https://www.okex.com/"
+        },
         "/BCMonster/" : {
             "name": "BCMonster",
             "link": "http://www.bcmonster.com/"
@@ -311,6 +339,10 @@
         "/Bixin/" : {
             "name": "Bixin",
             "link": "https://haopool.com/"
+        },
+        "/ViaBTC/TATMAS Pool/" : {
+            "name" : "TATMAS Pool",
+            "link" : "https://tmsminer.com/"
         },
         "viabtc.com deploy" : {
             "name": "ViaBTC",
@@ -342,7 +374,7 @@
         },
         "/DCEX/" : {
             "name" : "DCEX",
-            "link" : "http://dcexploration.cn"               
+            "link" : "http://dcexploration.cn"
         },
         "/BTPOOL/" : {
             "name" : "BTPOOL",
@@ -393,7 +425,7 @@
             "link" : "http://www.dpool.top/"
         },
         "/Rawpool.com/": {
-            "name" : "Rawpool.com",
+            "name" : "Rawpool",
             "link" : "https://www.rawpool.com/"
         },
         "/haominer/": {
@@ -420,8 +452,8 @@
             "name" : "tigerpool.net",
             "link" : ""
         },
-        "/SigmaPool.com/": {
-            "name" : "sigmapool.com",
+        "/Sigmapool.com/": {
+            "name" : "Sigmapool.com",
             "link" : "https://sigmapool.com"
         },
         "/www.okpool.top/": {
@@ -442,14 +474,126 @@
         },
         "/bytepool.com/": {
             "name" : "BytePool",
-            "link" : "https://bytepool.com/"
+            "link" : "https://www.bytepool.com/"
         },
-        "/SpiderPool.com/": {
+        "/SpiderPool/": {
             "name" : "SpiderPool",
             "link" : "https://www.spiderpool.com/"
+        },
+        "/NovaBlock/": {
+            "name" : "NovaBlock",
+            "link" : "https://novablock.com"
+        },
+        "MiningCity": {
+            "name" : "MiningCity",
+            "link" : "https://www.miningcity.com/"
+        },
+        "/Binance/": {
+            "name" : "Binance Pool",
+            "link" : "https://pool.binance.com/"
+        },
+        "/Mined in the USA by: /Minerium.com/" : {
+            "name" : "Minerium",
+            "link" : "https://www.minerium.com/"
+        },
+        "/Minerium.com/" : {
+            "name" : "Minerium",
+            "link" : "https://www.minerium.com/"
+        },        
+        "/Buffett/": {
+            "name" : "Lubian.com",
+            "link" : ""
+        },
+        "/lubian.com/" : {
+            "name" : "Lubian.com",
+            "link" : "http://www.lubian.com/"
+        },
+        "/hash.okkong.com/" : {
+            "name" : "OKKONG",
+            "link" : "https://hash.okkong.com"
+        },
+        "/AAOPOOL/" : {
+            "name" : "AAO Pool",
+            "link" : "https://btc.tmspool.top"
+        },
+        "/one_more_mcd/" : {
+            "name" : "EMCDPool",
+            "link" : "https://pool.emcd.io"
+        },
+        "Foundry USA Pool" : {
+            "name" : "Foundry USA",
+            "link" : "https://foundrydigital.com/"
+        },
+         "/2cDw/" : {
+            "name" : "Foundry USA",
+            "link" : "https://foundrydigital.com/"
+        },
+        "/SBICrypto.com Pool/" : {
+            "name" : "SBI Crypto",
+            "link" : "https://sbicrypto.com"
+        },
+        "SBI Crypto": {
+            "name": "SBI Crypto",
+            "link": "https://www.sbicrypto.com"
+        },
+        "SBICrypto": {
+            "name": "SBI Crypto",
+            "link": "https://www.sbicrypto.com"
+       	},
+        "/ArkPool/": {
+            "name": "ArkPool",
+            "link": "https://www.arkpool.com/"
+        },
+        "/PureBTC.COM/": {
+            "name": "PureBTC.COM",
+            "link": "https://purebtc.com"
+        },
+        "MARA Pool": {
+            "name": "MARA Pool",
+            "link": "https://marapool.com"
+        },
+        "KuCoinPool": {
+            "name": "KuCoinPool",
+            "link": "https://www.kucoin.com/mining-pool/"
+        },
+        "/ULTIMUS/": {
+            "name": "ULTIMUS POOL",
+            "link": "https://www.ultimuspool.com/"
+        },
+        "Entrustus" : {
+            "name": "Entrust Charity Pool",
+            "link": "pool.entustus.org"
+        },
+        "okminer.com/euz" : {
+            "name": "OKMINER",
+            "link": "https://okminer.com/"
+        },
+        "btccom" : {
+            "name" : "BTC.com",
+            "link" : "https://pool.btc.com"
+        },
+        "btccomf" : {
+            "name" : "BTC.com",
+            "link" : "https://pool.btc.com"
+        },
+        "/pegapool/" : {
+            "name" : "PEGA Pool",
+            "link" : "https://www.pega-pool.com"
         }
     },
     "payout_addresses" : {
+        "1MkCDCzHpBsYQivp8MxjY5AkTGG1f2baoe": {
+            "name": "Luxor",
+            "link": "https://mining.luxor.tech"
+        },
+        "39bitUyBcUu3y3hRTtYprKbTp712t4ZWqK": {
+            "name": "Luxor",
+            "link": "https://mining.luxor.tech"
+        },
+        "1ArTPjj6pV3aNRhLPjJVPYoxB98VLBzUmb": {
+            "name" : "KuCoinPool",
+            "link" : "https://www.kucoin.com/mining-pool/"
+         },
         "3Bmb9Jig8A5kHdDSxvDZ6eryj3AXd3swuJ": {
             "name" : "NovaBlock",
             "link" : "https://novablock.com"
@@ -495,12 +639,12 @@
             "link" : "https://polmine.pl/"
         },
         "1CK6KHY6MHgYvmRQ4PAafKYDrg1ejbH1cE" : {
-            "name" : "SlushPool",
-            "link" : "https://slushpool.com/"
+            "name" : "Braiins Pool",
+            "link" : "https://braiins.com/pool"
         },
         "1AqTMY7kmHZxBuLUR5wJjPFUvqGs23sesr" : {
-            "name" : "SlushPool",
-            "link" : "https://slushpool.com/"
+            "name" : "Braiins Pool",
+            "link" : "https://braiins.com/pool"
         },
         "1AcAj9p6zJn4xLXdvmdiuPCtY7YkBPTAJo" : {
             "name" : "BitFury",
@@ -514,7 +658,7 @@
             "name" : "BitMinter",
             "link" : "http://bitminter.com/"
         },
-        "15xiShqUqerfjFdyfgBH1K7Gwp6cbYmsTW " : {
+        "15xiShqUqerfjFdyfgBH1K7Gwp6cbYmsTW" : {
             "name" : "EclipseMC",
             "link" : "https://eclipsemc.com/"
         },
@@ -527,8 +671,32 @@
             "link" : "https://www.f2pool.com/"
         },
         "3HuobiNg2wHjdPU2mQczL9on8WF7hZmaGd" : {
-            "name" : "Huobi",
-            "link" : "http://www.huobi.com/"
+            "name" : "Huobi.pool",
+            "link" : "https://www.hpt.com/"
+        },
+        "18Zcyxqna6h7Z7bRjhKvGpr8HSfieQWXqj" : {
+            "name" : "Huobi.pool",
+            "link" : "https://www.hpt.com/"
+        },
+        "1EepjXgvWUoRyNvuLSAxjiqZ1QqKGDANLW" : {
+            "name" : "Huobi.pool",
+            "link" : "https://www.hpt.com/"
+        },
+        "1MvYASoHjqynMaMnP7SBmenyEWiLsTqoU6" : {
+            "name" : "Huobi.pool",
+            "link" : "https://www.hpt.com/"
+        },
+        "1BDbsWi3Mrcjp1wdop3PWFNCNZtu4R7Hjy" : {
+            "name" : "EMCDPool",
+            "link" : "https://pool.emcd.io"
+        },
+	"1MAAUXNSJEDaPtECd955CQct65BmTzwhj6" : {
+            "name" : "EMCDPool",
+            "link" : "https://pool.emcd.io"
+        },
+        "12QVFmJH2b4455YUHkMpEnWLeRY3eJ4Jb5" : {
+            "name" : "AAO Pool",
+            "link" : "https://btc.tmspool.top "
         },
         "1ALA5v7h49QT7WYLcRsxcXqXUqEqaWmkvw" : {
             "name" : "CloudHashing",
@@ -678,10 +846,6 @@
             "name" : "Patels",
             "link" : "http://patelsminingpool.com/"
         },
-        "18cBEMRxXHqzWWCxZNtU91F5sbUNKhL5PX" : {
-            "name" : "ViaBTC",
-            "link" : "http://viabtc.com/"
-        },
         "3NA8hsjfdgVkmmVS9moHmkZsVCoLxUkvvv" : {
             "name" : "BTC.com",
             "link" : "https://pool.btc.com"
@@ -695,6 +859,10 @@
             "link" : "https://pool.btc.com"
         },
         "bc1qjl8uwezzlech723lpnyuza0h2cdkvxvh54v3dn" : {
+            "name" : "BTC.com",
+            "link" : "https://pool.btc.com"
+        },
+        "1Bf9sZvBHPFGVPX71WX2njhd1NXKv5y7v5" : {
             "name" : "BTC.com",
             "link" : "https://pool.btc.com"
         },
@@ -811,7 +979,7 @@
             "link" : "http://www.dpool.top/"
         },
         "1FbBbv5oYqFKwiPm4CAqvAy8345n8AQ74b" : {
-            "name" : "Rawpool.com",
+            "name" : "Rawpool",
             "link" : "https://www.rawpool.com/"
         },
         "1LsFmhnne74EmU4q4aobfxfrWY4wfMVd8w" : {
@@ -830,13 +998,25 @@
             "name" : "Poolin",
             "link" : "https://www.poolin.com/"
         },
+        "1E8CZo2S3CqWg1VZSJNFCTbtT8hZPuQ2kB" : {
+            "name" : "Poolin",
+            "link" : "https://www.poolin.com/"
+        },
+        "14sA8jqYQgMRQV9zUtGFvpeMEw7YDn77SK" : {
+            "name" : "Poolin",
+            "link" : "https://www.poolin.com/"
+        },
+        "1GNgwA8JfG7Kc8akJ8opdNWJUihqUztfPe" : {
+            "name" : "Poolin",
+            "link" : "https://www.poolin.com/"
+        },
+        "17tUZLvy3X2557JGhceXRiij2TNYuhRr4r" : {
+            "name" : "Poolin",
+            "link" : "https://www.poolin.com/"
+        },
         "12Taz8FFXQ3E2AGn3ZW1SZM5bLnYGX4xR6" : {
             "name" : "Tangpool",
             "link" : "http://www.tangpool.com/"
-        },
-        "1MvYASoHjqynMaMnP7SBmenyEWiLsTqoU6" : {
-            "name": "Huobi.pool",
-            "link": "https://www.poolhb.com/"
         },
         "1M1Xw2rczxkF3p3wiNHaTmxvbpZZ7M6vaa" : {
             "name": "1M1X",
@@ -844,11 +1024,283 @@
         },
         "39m5Wvn9ZqyhYmCYpsyHuGMt5YYw4Vmh1Z" : {
             "name": "BytePool",
-            "link": "https://bytepool.com/"
+            "link": "https://www.bytepool.com/"
         },
         "38u1srayb1oybVB43UWKBJsrwJbdHGtPx2": {
             "name" : "SpiderPool",
             "link" : "https://www.spiderpool.com/"
+        },
+        "125m2H43pwKpSZjLhMQHneuTwTJN5qRyYu": {
+            "name" : "SpiderPool",
+            "link" : "https://www.spiderpool.com/"
+        },
+        "1Sjj2cPC3rTWcSTEYDeu2f3BavLosog4T": {
+            "name": "AntPool",
+            "link": "https://www.antpool.com/"
+        },
+        "1jLVpwtNMfXWaHY4eiLDmGuBxokYLgv1X": {
+            "name": "AntPool",
+            "link": "https://www.antpool.com/"
+        },
+        "15kiNKfDWsq7UsPg87UwxA8rVvWAjzRkYS": {
+            "name": "AntPool",
+            "link": "https://www.antpool.com/"
+        },
+        "16MdTdqmXusauybtXTmFEW4GNFPPgGxQYE": {
+            "name": "AntPool",
+            "link": "https://www.antpool.com/"
+        },
+        "16kUc5B48qnASbxeZTisCqTNx6G3DPXuKn": {
+            "name": "AntPool",
+            "link": "https://www.antpool.com/"
+        },
+        "17gVZssumiJqYMCHozHKXGyaAvyu6NCX6V": {
+            "name": "AntPool",
+            "link": "https://www.antpool.com/"
+        },
+        "1AJQ3jXhUF8WiisEcuVd8Xmfq4QJ7n1SdL": {
+            "name": "AntPool",
+            "link": "https://www.antpool.com/"
+        },
+        "1BWW3pg5jb6rxebrNeo9TATarwJ1rthnoe": {
+            "name": "AntPool",
+            "link": "https://www.antpool.com/"
+        },
+        "1CBqo1w3hmm9SCmbu2Yg6Ls4uLfkUqZJsx": {
+            "name": "AntPool",
+            "link": "https://www.antpool.com/"
+        },
+        "1CyB8GJNEsNVXtPutB36nrDY3fMXBTzXSX": {
+            "name": "AntPool",
+            "link": "https://www.antpool.com/"
+        },
+        "1D4UZG4qo8bF1MuZHSEyBHRZaxT8inatXS": {
+            "name": "AntPool",
+            "link": "https://www.antpool.com/"
+        },
+        "1Dek9ArRHb9tyWb9gaaX8SWmkfi5V7U5Y6": {
+            "name": "AntPool",
+            "link": "https://www.antpool.com/"
+        },
+        "1DDXyKUT6q3H9e5QXm2Gv6BNNWgztFG55g": {
+            "name": "AntPool",
+            "link": "https://www.antpool.com/"
+        },
+        "1DyR7HPQWjM6Zrnk7SzHVY2GEpXRGNNH9o": {
+            "name": "AntPool",
+            "link": "https://www.antpool.com/"
+        },
+        "1B7ZBX2C39b26M9chHLURGSFTJA6DDQkZv": {
+            "name": "AntPool",
+            "link": "https://www.antpool.com/"
+        },
+        "1NS4gbx1G2D5rc9PnvVsPys12nKxGiQg72": {
+            "name": "AntPool",
+            "link": "https://www.antpool.com/"
+        },
+        "1KmgBTL7cFmFFYTD7HcdkMcZXRcTkh2WwS": {
+            "name": "AntPool",
+            "link": "https://www.antpool.com/"
+        },
+        "1Nh7uHdvY6fNwtQtM1G5EZAFPLC33B59rB": {
+            "name": "AntPool",
+            "link": "https://www.antpool.com/"
+        },
+        "1LTGvTjDxiy5S9YcKEE9Lb7xSpZcPSqinw": {
+            "name": "AntPool",
+            "link": "https://www.antpool.com/"
+        },
+        "1K8PNogxBZ6ts532DZnzxdbjgzJLjLdXqz": {
+            "name": "AntPool",
+            "link": "https://www.antpool.com/"
+        },
+        "1JwUDWVSbAY5NeCBJhxQk1E8AfETfZuPj4": {
+            "name": "AntPool",
+            "link": "https://www.antpool.com/"
+        },
+        "1JBVrhSSDrZrRmm4RnoWouqgGGqJMvWHi8": {
+            "name": "AntPool",
+            "link": "https://www.antpool.com/"
+        },
+        "1H3u6R813MHGYhmGW6v86EYYriawRtACYD": {
+            "name": "AntPool",
+            "link": "https://www.antpool.com/"
+        },
+        "1Gp7iCzDGMZiV55Kt8uKsux6VyoHe1aJaN": {
+            "name": "AntPool",
+            "link": "https://www.antpool.com/"
+        },
+        "1GRcX882sdBYCAWyG99iF2oz7j3nYzXhLM": {
+            "name": "AntPool",
+            "link": "https://www.antpool.com/"
+        },
+        "1FdJkPdpXtK3t5utZHJAop3saLZWfPfgak": {
+            "name": "AntPool",
+            "link": "https://www.antpool.com/"
+        },
+        "12dRugNcdxK39288NjcDV4GX7rMsKCGn6B": {
+            "name": "AntPool",
+            "link": "https://www.antpool.com/"
+        },
+        "1CZHhV67Qos4xXb8uYqvAGjK8Wq52woPi5": {
+            "name": "AntPool",
+            "link": "https://www.antpool.com/"
+        },
+        "1Pzf7qT7bBGouvnjRvtRD8VhTyqjX1NrJT": {
+            "name": "AntPool",
+            "link": "https://www.antpool.com/"
+        },
+        "3FaYVQF6wCMUB9NCeRe4tUp1zZx8qqM7H1": {
+            "name": "AntPool",
+            "link": "https://www.antpool.com/"
+        },
+        "1MiQrT5sEKTUGNMbd9WS3yPPkSjWdpYA2r": {
+            "name": "AntPool",
+            "link": "https://www.antpool.com/"
+        },
+        "1H6ckqNWikmVT3wpN3X1BQ6b156Xc9nT2L": {
+            "name": "AntPool",
+            "link": "https://www.antpool.com/"
+        },
+        "1GT2N4dCufvbnTKMbS61QrQPN4SexCAFiH": {
+            "name": "AntPool",
+            "link": "https://www.antpool.com/"
+        },
+        "1GEG1JR81jvUXs7TMAuo3SPBHZrpJijcjt": {
+            "name": "AntPool",
+            "link": "https://www.antpool.com/"
+        },
+        "1FrHkVsW7csAYYaRbUUcrKSmv91hcQnsqQ": {
+            "name": "AntPool",
+            "link": "https://www.antpool.com/"
+        },
+        "1DQaDTefKPjHz3beLuo8KHRZF9t2Sc6foP": {
+            "name": "AntPool",
+            "link": "https://www.antpool.com/"
+        },
+        "1D9jw3QHNankXxtcGVihsDK7Z7THN6j7Pg": {
+            "name": "AntPool",
+            "link": "https://www.antpool.com/"
+        },
+        "12cKiMNhCtBhZRUBCnYXo8A4WQzMUtYjmR": {
+            "name": "Sigmapool.com",
+            "link": "https://sigmapool.com/"
+        },
+        "16JHXJ7M2MubWNX9grnqbjUqJ5PHwcCWw2": {
+            "name": "OKKONG",
+            "link": "https://hash.okkong.com/"
+        },
+        "11wC5KcbgrWRBb43cwADdVrxgyF8mndVC": {
+            "name": "MiningCity",
+            "link": "https://www.miningcity.com/"
+        },
+        "1DSh7vX6ed2cgTeKPwufV5i4hSi4pp373h": {
+            "name" : "Binance Pool",
+            "link" : "https://pool.binance.com/"
+        },
+        "16moWjUJVRnDQKqhoCdcszfJg9wzBdoTHw": {
+            "name" : "Binance Pool",
+            "link" : "https://pool.binance.com/"
+        },
+        "bc1qx9t2l3pyny2spqpqlye8svce70nppwtaxwdrp4": {
+            "name" : "Binance Pool",
+            "link" : "https://pool.binance.com/"
+        },
+        "1JvXhnHCi6XqcanvrZJ5s2Qiv4tsmm2UMy": {
+            "name" : "Binance Pool",
+            "link" : "https://pool.binance.com/"
+        },
+        "122pN8zvqTxJaA8fRY1PDBu4QYodqE5m2X": {
+            "name" : "Binance Pool",
+            "link" : "https://pool.binance.com/"
+        },
+        "3L8Ck6bm3sve1vJGKo6Ht2k167YKSKi8TZ": {
+            "name" : "Binance Pool",
+            "link" : "https://pool.binance.com/"
+        },
+        "34Jpa4Eu3ApoPVUKNTN2WeuXVVq1jzxgPi": {
+            "name" : "Lubian.com",
+            "link" : "http://www.lubian.com/"
+        },
+        "1FFxkVijzvUPUeHgkFjBk2Qw8j3wQY2cDw" : {
+            "name" : "Foundry USA",
+            "link" : "https://foundrydigital.com/"
+        },
+        "1QEiAhdHdMhBgVbDM7zUXWGkNhgEEJ6uLd": {
+            "name": "ArkPool",
+            "link": "https://www.arkpool.com/"
+        },
+        "147SwRQdpCfj5p8PnfsXV2SsVVpVcz3aPq": {
+            "name": "1THash",
+            "link": "https://www.1thash.top"
+        },
+        "15vgygQ7ZsWdvZpctmTZK4673QBHsos6Sh": {
+            "name": "1THash",
+            "link": "https://www.1thash.top"
+        },
+        "bc1qnnl503n04cqacpwvhr89qr70metxr79ht3n380": {
+            "name": "Rawpool",
+            "link": "https://www.rawpool.com"
+        },
+        "bc1qwlrsvgtn99rqp3fgaxq6f6jkgms80rnej0a8tc": {
+            "name": "Rawpool",
+            "link": "https://www.rawpool.com"
+        },
+        "bc1q8ej2g5uxdsg0jwl0mpl606qfjxgkyv3p29yf37": {
+            "name": "Rawpool",
+            "link": "https://www.rawpool.com"
+        },
+        "bc1qru8mtv3e3u7ms6ecjmwgeakdakclemvhnw00q9": {
+            "name": "Rawpool",
+            "link": "https://www.rawpool.com"
+        },
+        "3QYvfQoG9Gs9Vfvbpw6947muSqhoGagvF6": {
+            "name": "Rawpool",
+            "link": "https://www.rawpool.com"
+        },
+        "35y82tEPDa2wm6tzkEacMG8GPPW7zbMj83": {
+            "name": "Rawpool",
+            "link": "https://www.rawpool.com"
+        },
+        "3CLigLYNkrtoNgNcUwTaKoUSHCwr9W851W": {
+            "name": "Rawpool",
+            "link": "https://www.rawpool.com"
+        },
+        "bc1qf274x7penhcd8hsv3jcmwa5xxzjl2a6pa9pxwm": {
+            "name" : "F2Pool",
+            "link" : "https://www.f2pool.com/"
+        },
+        "1EMVSMe1VJUuqv7D7SFzctnVXk4KdjXATi": {
+            "name" : "ULTIMUS POOL",
+            "link" : "https://www.ultimuspool.com/"
+        },
+        "3C9sAKXrBVpJVe3b738yik4LPHpPmceBgd": {
+            "name" : "ULTIMUS POOL",
+            "link" : "https://www.ultimuspool.com/"
+        },
+        "19VBqLkbMywnX5QMUg7LsHgbzsLh9as4MS": {
+            "name": "MARA Pool",
+            "link": "https://marapool.com"
+        },
+        "15xcAZ2HfaSwYbCV6GGbasBSAekBRRC5Q2": {
+            "name": "OKMINER",
+            "link": "https://okminer.com/"
+        },
+        "3Qqp7LwxmSjPwRaKkDToysJsM3xA4ThqFk": {
+            "name": "Terra Pool",
+            "link": "https://terrapool.io"
+        },
+        "32P5KVSbZYAkVmSHxDd2oBXaSk372rbV7L": {
+            "name": "Terra Pool",
+            "link": "https://terrapool.io"
+        },
+        "36cWgjEtxQSFgbHTJDw5AB96ZX7fJk1URd" : {
+            "name" : "BTC.com",
+            "link" : "https://pool.btc.com"
+        },
+        "1BGFwRzjCfRR7EvRHnzfHyFjGR8XiBDFKa" : {
+            "name" : "PEGA Pool",
+            "link" : "https://www.pega-pool.com"
         }
     }
 }
